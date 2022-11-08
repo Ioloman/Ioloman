@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### This is a placeholder user
-I'm moved to [https://github.com/kirilldd2](https://github.com/kirilldd2)
+I'm moved here -> [https://github.com/kirilldd2](https://github.com/kirilldd2) <-
 
 <!--
 **Ioloman/Ioloman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
